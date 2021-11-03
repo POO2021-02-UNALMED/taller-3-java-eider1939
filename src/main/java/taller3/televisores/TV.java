@@ -7,7 +7,7 @@ public class TV {
 	private boolean estado;
 	private int volumen;
 	private Control control;
-	private static int numTV;
+	private static int numTv;
 	
 	public TV(Marca marca,boolean estado) {
 		this.marca=marca;
