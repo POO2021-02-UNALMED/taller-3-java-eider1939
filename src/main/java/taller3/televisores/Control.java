@@ -32,6 +32,7 @@ public class Control {
 	}
 	public void setTv(TV ttv) {
 		tv=ttv;
+        this.enlazar(tvv);
 	}
 }
 
