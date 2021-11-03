@@ -52,10 +52,10 @@ public class TV {
 		control=cont;		
 	}
 	public int getNumTV() {
-		return numTV;
+		return numTv;
 	}
 	public void setNumTV(int num) {
-		numTV=num;
+		numTv=num;
 	}
 	public void turnOn(){
 		estado = true;
