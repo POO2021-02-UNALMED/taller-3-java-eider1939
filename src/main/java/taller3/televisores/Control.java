@@ -30,8 +30,8 @@ public class Control {
 	public TV getTv() {
 		return tv;
 	}
-	public void setTv(TV tv) {
-		tv=tv;
+	public void setTv(TV ttv) {
+		tv=ttv;
 	}
 }
 
